@@ -8,4 +8,3 @@ type Ticket struct {
 	Time    string
 	Price   float64
 }
-®
